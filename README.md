@@ -1,5 +1,5 @@
 # GrimD Downloader
-## Programa para Windows(.exe) que permite baixar Vídeos do Youtube e outros sites.
+## Aplicativo para Windows(.exe) que permite baixar Vídeos do Youtube e outros sites.
 
 ### Descrição:
 
