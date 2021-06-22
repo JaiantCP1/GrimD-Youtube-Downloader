@@ -5,7 +5,7 @@
 ###### [DESCRIÇÃO](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#descri%C3%A7%C3%A3o)
 ###### [REQUISITOS](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#requisitos)
 ###### [DOWNLOADS](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#downloads)
-###### INSTALAÇÃO
+###### [INSTALAÇÃO](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#instala%C3%A7%C3%A3o)
 
 
 ### Descrição:
@@ -25,5 +25,5 @@
 
 ### Instalação:
 
-###### 1- Baixe o Instalador e [execute-o como administrador](https://www.softdownload.com.br/como-executar-programa-como-administrador-windows.html)
+###### 1- Baixe o [Instalador](https://github.com/JaiantCP1/GrimD-Youtube-Downloader/releases/download/v1.3.1/Instalador.bat) e [execute-o como administrador](https://www.softdownload.com.br/como-executar-programa-como-administrador-windows.html)
 ###### 2- Baixe o GrimD e abra-o
