@@ -13,16 +13,16 @@ cyan = '\033[36m'
 yellow = '\033[33m'
 green = '\033[32m'
 
-print(f'\n{yellow}GrimD {red}Developer Build : Test 1.1{reset}')
-print(f'\nFeatures: {green}-AutoSearch Youtube (Thanks to renanrcp){reset}')
-print(f'          {red}-Youtube Videos{reset}')
-print(f'          {purple}-Instagram Videos{reset}')
-print(f'          {blue}-Facebook Videos{reset}')
-print(f'          {white}-Tiktok Videos{reset}')
-print(f'          {cyan}-Twitter Videos{reset}')
-print(f'          {cyan}-Dailymotion Videos{reset}')
-print(f'          {red}-Pinterest Videos{reset}')
-print(f'          {yellow}-Reddit Videos{reset}')
+print(f'\nGrimD Developer Build : Test 1.1')
+print(f'\nFeatures: -AutoSearch Youtube (Thanks to renanrcp)')
+print(f'          -Youtube Videos')
+print(f'          -Instagram Videos')
+print(f'          -Facebook Videos')
+print(f'          -Tiktok Videos')
+print(f'          -Twitter Videos')
+print(f'          -Dailymotion Videos')
+print(f'          -Pinterest Videos')
+print(f'          -Reddit Videos')
 
 reprocessamento = 1
 
@@ -164,3 +164,6 @@ while reprocessamento != 0:
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([link])
     print(f'{reset}')
+    sleep(0.5)
+    os.system('cls||clear')
+    
