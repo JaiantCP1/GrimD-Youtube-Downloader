@@ -73,3 +73,5 @@ baixar2.grid(row=2,column=1,padx=1,pady=1)
 text = Label(ux, bg = 'gray',fg = 'white',text='Videos são baixados em 720p(HD)\n\nMade by JaintC')
 text.grid(row=2,column=0,padx=10,pady=10)
 ux.mainloop()
+
+#end
