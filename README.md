@@ -25,5 +25,6 @@
 
 ### Instalação:
 
-###### 1- Baixe o [Instalador](https://github.com/JaiantCP1/GrimD-Youtube-Downloader/releases/download/v1.3.1/Instalador.bat) e [execute-o como administrador](https://www.softdownload.com.br/como-executar-programa-como-administrador-windows.html)
-###### 2- Baixe o GrimD e abra-o
+###### 1- Baixe o GrimD e extrai-o para qualquer pasta
+###### 2- Depois de aberto, vá no menu opções/ffmpeg fix. Depois do processo terminar, aparecerá uma guia indicando que o aplicativo deve ser fechado.
+###### 3- Feche o programa e abra novamente
