@@ -10,13 +10,13 @@
 
 ### Descrição:
 
-###### GrimD é um projeto para baixar vídeos de vários sites de uma forma **segura** e **legal**, **sem roubo de dados** ou conceder informações sigilosas.
+###### GrimD é um projeto para baixar vídeos do youtube (e outros sites) usando [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
-######  Você tem total liberdade para editar este projeto e torná-lo seu.
+###### Você tem total liberdade para editar este projeto e torná-lo seu.
 
 ### Requisitos:
 
-#### Sistema Operacional : **Windows**
+#### Sistema Operacional : **Windows** (.exe)
 #### [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ### Downloads:
@@ -26,5 +26,5 @@
 ### Instalação:
 
 ###### 1- Baixe o GrimD e extrai-o para qualquer pasta
-###### 2- Depois de aberto, vá no menu opções/ffmpeg fix(só é necessário fazer este processo uma vez).
+###### 2- Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez).
 ###### 3- Feche o programa e abra novamente
