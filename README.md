@@ -21,7 +21,7 @@
 
 ### Downloads:
 
-#### [Versões](https://github.com/JaiantCP1/GrimD-Youtube-Downloader/tags)
+#### [Versões](https://github.com/JaintC/GrimD-Youtube-Downloader/releases)
 
 ### Instalação:
 
