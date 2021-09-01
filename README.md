@@ -26,5 +26,5 @@
 ### Instalação:
 
 ###### 1- Baixe o GrimD e extrai-o para qualquer pasta
-###### 2- Depois de aberto, vá no menu opções/ffmpeg fix. Depois do processo terminar, aparecerá uma guia indicando que o aplicativo deve ser fechado.
+###### 2- Depois de aberto, vá no menu opções/ffmpeg fix(só é necessário fazer este processo uma vez).
 ###### 3- Feche o programa e abra novamente
