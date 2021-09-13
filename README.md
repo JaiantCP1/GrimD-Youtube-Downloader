@@ -14,6 +14,8 @@
 
 ###### Você tem total liberdade para editar este projeto e torná-lo seu.
 
+###### Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
+
 ### Requisitos:
 
 #### Sistema Operacional : **Windows** (.exe)
