@@ -20,6 +20,12 @@
  <img alt="Jean-GrimD" height="388" width="690" src="https://cdn.discordapp.com/attachments/733782835067879487/887644388019290142/2021-09-15_06-51-07_Trim_Trim.gif">
  </div>
 
+##### Observações: 
+###### O botão vídeo baixa videos em 720p(HD), sendo eles .mp4
+###### O botão MP3 baixa audios em m4a e converte para MP3 usando ffmpeg
+###### É possível fazer download de playlists e vídeos pelo nome (sem precisar do link)
+###### O youtube-dl permite o download de vídeos em outros sites, porém devido à conversão pode ser que alguns vídeos não baixem
+
 ### Requisitos:
 
 #### Sistema Operacional : **Windows** (.exe)
