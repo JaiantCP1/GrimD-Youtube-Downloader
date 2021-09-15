@@ -23,7 +23,7 @@
 ##### Observações: 
 ###### O botão Vídeo baixa videos em 720p(webm), sendo eles convertidos para MP4
 ###### O botão MP3 baixa audios em M4A e usando o ffmpeg converte para MP3
-###### É possível fazer download de **playlists** e vídeos pelo nome (sem precisar do link)
+###### É possível fazer download de vídeos pelo nome (sem precisar do link) e também download de playlists
 ###### O youtube-dl permite o download de vídeos em outros sites, porém devido à conversão pode ser que os vídeos não baixem
 
 ### Requisitos:
