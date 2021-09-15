@@ -30,7 +30,7 @@
 
 #### [Versões](https://github.com/JaintC/GrimD-Youtube-Downloader/releases)
 
-### Instalação:
+### Instalação (v1.2.0):
 
 ###### 1- Baixe e instale o GrimD
 ###### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez [caso vc já tenha o ffmpeg adicionado ao path não precisa]).
