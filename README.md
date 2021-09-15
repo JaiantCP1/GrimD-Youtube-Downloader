@@ -16,11 +16,15 @@
 
 ###### Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 
+<div style="display: inline_block"><br>
+ <img align="center" alt="Jean-GrimD" height="300" width="450" src="https://cdn.discordapp.com/attachments/733782835067879487/887642131429195826/2021-09-15_06-51-07_Trim_2_1.gif">
+ </div>
+
 ### Requisitos:
 
 #### Sistema Operacional : **Windows** (.exe)
 #### [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-#### FFmpeg adicionado ao path (se preferir, pode fazer manualmente)
+##### [FFmpeg](https://ffmpeg.org/download.html) adicionado ao path (caso queira adiciona-lo manualmente)
 
 ### Downloads:
 
