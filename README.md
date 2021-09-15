@@ -17,7 +17,7 @@
 ###### Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Jean-GrimD" height="300" width="450" src="https://cdn.discordapp.com/attachments/733782835067879487/887642131429195826/2021-09-15_06-51-07_Trim_2_1.gif">
+ <img alt="Jean-GrimD" height="388" width="690" src="https://cdn.discordapp.com/attachments/733782835067879487/887644388019290142/2021-09-15_06-51-07_Trim_Trim.gif">
  </div>
 
 ### Requisitos:
@@ -32,7 +32,7 @@
 
 ### Instalação:
 
-###### 1- Baixe o GrimD.zip e extraia a pasta
-###### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez).
+###### 1- Baixe e instale o GrimD
+###### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez [caso vc já tenha o ffmpeg adicionado ao path não precisa]).
 ###### 3- Feche o programa e abra novamente
 ###### 4- Aproveite!
