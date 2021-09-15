@@ -20,6 +20,7 @@
 
 #### Sistema Operacional : **Windows** (.exe)
 #### [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+#### FFmpeg adicionado ao path (se preferir, pode fazer manualmente)
 
 ### Downloads:
 
