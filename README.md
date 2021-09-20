@@ -17,7 +17,7 @@ Você tem total liberdade para editar este projeto e torná-lo seu.
 Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 <div style="display: inline_block"><br>
- <img alt="Jean-GrimD" height="388" width="690" src="https://cdn.discordapp.com/attachments/733782835067879487/887644388019290142/2021-09-15_06-51-07_Trim_Trim.gif">
+ <img alt="Jean-GrimD" src="https://cdn.discordapp.com/attachments/733782835067879487/889618212445102080/ezgif.com-gif-maker_7.gif">
  </div>
 
 ## Observações:
@@ -36,7 +36,7 @@ Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 #### [Versões](https://github.com/JaintC/GrimD-Youtube-Downloader/releases)
 
-## Instalação (v1.2.0):
+## Instalação (v1.2.1):
 
 #### 1- Baixe e instale o GrimD
 #### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez [caso vc já tenha o ffmpeg adicionado ao path não precisa]).
