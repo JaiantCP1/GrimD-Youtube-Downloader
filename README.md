@@ -29,15 +29,17 @@ GUI made with [tkinter](https://docs.python.org/3/library/tkinter.html)
 #### 3- Reopen the GrimD
 #### 4- Enjoy
 
-## Installation Linux (v1.2.1):
+## Installation Linux (v1.3.0):
 ```
 sudo apt-get update
 sudo apt-get install ffmpeg
 ```
-#### 1- Download GrimD-Linux
-#### 2- Extract
-#### 3- Run terminal in GrimD-Linux Folder:
+#### 1- Download GrimD-1.3.0-Linux
+#### 2- Extract GrimD 1.3.0 folder
+#### 3- Run terminal into GrimD Folder:
 ```
 chmod +x Grimd
 ./GrimD
 ```
+#### 4- After that you'll be able to open double-clicking
+#### 5- Enjoy
