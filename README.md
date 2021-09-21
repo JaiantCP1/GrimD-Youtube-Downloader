@@ -1,12 +1,4 @@
 # GrimD Downloader
-## Aplicativo para Windows que permite baixar Vídeos do Youtube e outros sites.
-
-
-#### [DESCRIÇÃO](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#descri%C3%A7%C3%A3o)
-#### [REQUISITOS](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#requisitos)
-#### [DOWNLOADS](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#downloads)
-#### [INSTALAÇÃO](https://github.com/JaiantCP1/GrimD-Youtube-Downloader#instala%C3%A7%C3%A3o)
-
 
 ## Descrição:
 
@@ -29,7 +21,6 @@ Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 
 ## Instalação Windows (v1.2.1):
-#### [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 #### [FFmpeg](https://ffmpeg.org/download.html) adicionado ao path (caso queira adiciona-lo manualmente)\
 
 #### 1- Baixe e instale o GrimD
