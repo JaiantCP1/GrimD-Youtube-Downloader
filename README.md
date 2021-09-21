@@ -27,19 +27,26 @@ Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
 #### É possível fazer download de vídeos pelo nome (sem precisar do link) e também download de playlists
 #### O youtube-dl permite o download de vídeos em outros sites, porém devido à conversão pode ser que os vídeos não baixem
 
-## Requisitos:
 
-#### Sistema Operacional : **Windows** (.exe)
+## Instalação Windows (v1.2.1):
 #### [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-#### [FFmpeg](https://ffmpeg.org/download.html) adicionado ao path (caso queira adiciona-lo manualmente)
-
-## Downloads:
-
-#### [Versões](https://github.com/JaintC/GrimD-Youtube-Downloader/releases)
-
-## Instalação (v1.2.1):
+#### [FFmpeg](https://ffmpeg.org/download.html) adicionado ao path (caso queira adiciona-lo manualmente)\
 
 #### 1- Baixe e instale o GrimD
 #### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez [caso vc já tenha o ffmpeg adicionado ao path não precisa]).
 #### 3- Feche o programa e abra novamente
 #### 4- Aproveite!
+
+## Variante linux (v1.2.1):
+```
+sudo apt-get update
+sudo apt-get install ffmpeg
+```
+#### 1- Baixe o arquivo GrimD Linux
+#### 2- Extraia a pasta
+#### 3- Execute o GrimD:
+```
+cd <DiretórioPastaExtraída>
+chmod +x Grimd
+./GrimD
+```
