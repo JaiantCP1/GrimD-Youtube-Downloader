@@ -1,43 +1,43 @@
 # GrimD Downloader
 
-## Descrição:
+## Description:
 
-GrimD é um projeto para baixar vídeos do youtube (e outros sites) usando [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+GrimD is a video downloader youtube(and other sites) project using [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
-Você tem total liberdade para editar este projeto e torná-lo seu.
+You have the right for changing this project and making it yours.
 
-Interface feita com [tkinter](https://docs.python.org/3/library/tkinter.html)
+GUI made with [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 <div style="display: inline_block"><br>
  <img alt="Jean-GrimD" src="https://cdn.discordapp.com/attachments/733782835067879487/889618212445102080/ezgif.com-gif-maker_7.gif">
  </div>
 
-## Observações:
-#### O botão 720p baixa videos em 720p(webm), sendo eles convertidos para MP4 (ffmpeg)
-#### O botão 360p baixa videos em 360p, sendo eles convertidos para MP4 (ffmpeg)
-#### O botão MP3 baixa audios em M4A e usando o ffmpeg converte para MP3
-#### É possível fazer download de vídeos pelo nome (sem precisar do link) e também download de playlists
-#### O youtube-dl permite o download de vídeos em outros sites, porém devido à conversão pode ser que os vídeos não baixem
+# [Downloads](https://github.com/jaintc/grimd-youtubedl/releases)
 
+## Notes:
+#### Before downloading don't forget to save the directory
+#### 720p button = .mp4 720p video 
+#### 360p button = .mp4 360p video
+#### MP3 button = .mp3 256kbps audio
+#### Download videos by name is enabled / Playlists are enabled
 
-## Instalação Windows (v1.2.1):
-#### [FFmpeg](https://ffmpeg.org/download.html) adicionado ao path (caso queira adiciona-lo manualmente)\
+## Installation Windows (v1.2.1):
+#### [FFmpeg](https://ffmpeg.org/download.html) added to path (in case you wanna add it manually)
 
-#### 1- Baixe e instale o GrimD
-#### 2- Abra o GrimD.exe. Depois de aberto, vá no menu opções/ffmpeg fix (só é necessário fazer este processo uma vez [caso vc já tenha o ffmpeg adicionado ao path não precisa]).
-#### 3- Feche o programa e abra novamente
-#### 4- Aproveite!
+#### 1- Download GrimD-Installer and Install
+#### 2- Open GrimD.exe. After first install, go to Options/Fix ffmpeg (there's no need if you already have ffmpeg added to path)
+#### 3- Reopen the GrimD
+#### 4- Enjoy
 
-## Variante linux (v1.2.1):
+## Installation Linux (v1.2.1):
 ```
 sudo apt-get update
 sudo apt-get install ffmpeg
 ```
-#### 1- Baixe o arquivo GrimD Linux
-#### 2- Extraia a pasta
-#### 3- Execute o GrimD:
+#### 1- Download GrimD-Linux
+#### 2- Extract
+#### 3- Run terminal in GrimD-Linux Folder:
 ```
-cd <DiretórioPastaExtraída>
 chmod +x Grimd
 ./GrimD
 ```
