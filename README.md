@@ -16,10 +16,12 @@ GUI made with [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 ## Notes:
 #### Before downloading don't forget to save the directory
+#### 1080p button = .mp4 1080 video
 #### 720p button = .mp4 720p video 
 #### 360p button = .mp4 360p video
 #### MP3 button = .mp3 256kbps audio
-#### Download videos by name is enabled / Playlists are enabled
+#### Download videos by name is enabled
+#### Playlists are enabled
 
 ## Installation Windows (v1.2.1):
 #### [FFmpeg](https://ffmpeg.org/download.html) added to path (in case you wanna add it manually)
