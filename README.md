@@ -9,7 +9,7 @@ You have the right for changing this project and making it yours.
 GUI made with [tkinter](https://docs.python.org/3/library/tkinter.html)
 
 <div style="display: inline_block"><br>
- <img alt="Jean-GrimD" src="https://cdn.discordapp.com/attachments/733782835067879487/889618212445102080/ezgif.com-gif-maker_7.gif">
+ <img alt="Jean-GrimD" src="https://cdn.discordapp.com/attachments/733782835067879487/889890715537145856/Screenshot_from_2021-09-21_12-00-59.png">
  </div>
 
 # [Downloads](https://github.com/jaintc/grimd-youtubedl/releases)
