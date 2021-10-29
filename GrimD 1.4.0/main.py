@@ -330,18 +330,20 @@ def fix_ffmpeg_all():
             pass
     
         black_clean = tk.Label(frame_progress,bg=color_bg,font=('Arial',17),text='                                                          ').grid(row=0,column=0)
-        show_progress = tk.Label(frame_progress,bg=color_bg,fg='yellow',font=('Arial',17),text='         Download in progress').grid(row=0,column=0)
+        show_progress = tk.Label(frame_progress,bg=color_bg,fg='yellow',font=('Arial',17),text='Download in progress').grid(row=0,column=0)
 
         ffmpeg_url = 'https://github.com/JaintC/GrimD-YoutubeDL/releases/download/v1.4.0/gffmpeg-2021-10-28-git-full_build.zip'
-        wget.download(ffmpeg_url, '/gFFmpeg/gffmpeg-2021-10-28-git-full_build')
+        download(ffmpeg_url, '/gFFmpeg/gffmpeg-2021-10-28-git-full_build.zip')
 
         with ZipFile('C:/gFFmpeg/gffmpeg-2021-10-28-git-full_build.zip', 'r') as zip_ref:
             zip_ref.extractall('/gFFmpeg')
 
-        os.system('SETX PATH "%PATH%;C:\gFFmpeg\gffmpeg-4.4-essentials_build\gbin"')
+        os.remove('C:/gFFmpeg/gffmpeg-2021-10-28-git-full_build.zip')
         
+        os.system('SETX PATH "%PATH%;C:\gFFmpeg\gffmpeg-4.4-essentials_build\gbin"')   
+
         black_clean = tk.Label(frame_progress,bg=color_bg,font=('Arial',17),text='                                                          ').grid(row=0,column=0)
-        show_finish = tk.Label(frame_progress,bg=color_bg,fg='#00FF00',font=('Arial',17),text='         Finished Download').grid(row=0,column=0)
+        show_finish = tk.Label(frame_progress,bg=color_bg,fg='#00FF00',font=('Arial',17),text='Finished Download').grid(row=0,column=0)
 
         info = tk.messagebox.showinfo("GrimD", "Please reopen the app!")
         gui.quit()
