@@ -11,17 +11,13 @@ GUI made with [tkinter](https://docs.python.org/3/library/tkinter.html)
 <div style="display: inline_block"><br>
  <img alt="Jean-GrimD" src="https://cdn.discordapp.com/attachments/733782835067879487/890398809136463972/GrimD.png">
  </div>
+GrimD 1.3.0
 
-# [Downloads](https://github.com/jaintc/grimd-youtubedl/releases)
-
+## [Downloads](https://github.com/jaintc/grimd-youtubedl/releases)
+#### GrimD 1.4.0 : [Windows](https://github.com/JaintC/GrimD-YoutubeDL/releases/tag/v1.4.0)
+#### GrimD 1.3.0 : [Linux](https://github.com/JaintC/GrimD-YoutubeDL/releases/tag/v1.3.0-linux)
 ## Notes:
-### Before downloading don't forget to save the directory
-#### 4k button = .mp4 3840 x 2160 video
-#### 1080p button = .mp4 1920 x 1080 video
-#### 720p button = .mp4 1280 x 720 video 
-#### 360p button = .mp4 480 x 360 video
-#### mp3 button = .mp3 256kbps audio
-#### m4a button = .m4a 256kbps audio
+### Before downloading videos don't forget to save the directory
 #### Download videos by name is enabled
 #### Playlists are enabled
 
